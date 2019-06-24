@@ -39,6 +39,12 @@
   width: 100%;
 }
 
+#DisplayName__container {
+  width: 70%;
+  height: 10%;
+  background-color: bisque;
+}
+
 input {
   width: 90%;
   border: none;
@@ -46,5 +52,4 @@ input {
   height: 30px;
   font-size: 15px;
   outline: none;
-
 }

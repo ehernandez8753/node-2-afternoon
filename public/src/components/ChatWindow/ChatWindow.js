@@ -68,6 +68,9 @@ export default class ChatWindow extends Component {
             }
           </div>
         </div>
+        <div id="DisplayName__container">
+            <div>TEST</div>
+        </div>
         <div id="ChatWindow__newMessageContainer">
           <input placeholder="What's on your mind? Press enter to send." 
                  onKeyPress={ this.createMessage }
